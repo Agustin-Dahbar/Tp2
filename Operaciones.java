@@ -2,11 +2,9 @@ package Tp2;
 
 import java.util.Scanner;
 
-
+//PUNTO 1.
 public class Operaciones 
-{
-	//En esta clase Operaciones se encuentra el punto uno del trabajo practico 2.
-	
+{	
 	//Metodo que suma dos int´s.
 	public int sumar(int a, int b) 
 	{
